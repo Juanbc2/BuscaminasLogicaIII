@@ -1,0 +1,10 @@
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\bin\Release\BuscaminasLogicaIII.exe.config
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\bin\Release\BuscaminasLogicaIII.exe
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\bin\Release\BuscaminasLogicaIII.pdb
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.Form1.resources
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.Form2.resources
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.Properties.Resources.resources
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.csproj.GenerateResource.Cache
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.exe
+C:\Users\JUAN\documents\visual studio 2013\Projects\BuscaminasLogicaIII\BuscaminasLogicaIII\obj\Release\BuscaminasLogicaIII.pdb
